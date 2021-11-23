@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/include/cfe.h
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+float.h
+-
+string.h
+-
+
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/src/cfe.c
+../include/cfe.h
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/include/cfe.h
+

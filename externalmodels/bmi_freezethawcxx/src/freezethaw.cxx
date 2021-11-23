@@ -297,6 +297,7 @@ SetSMCBulk()
     double fice = std::min(1.0, this->SMCIce[0]/this->smcmax);
     double A = 4.0; // taken from NWM SOILWATER subroutine
     double fcr = std::max(0.0, std::exp(-A*(1.0-fice)) - std::exp(-A)) / (1.0 - std::exp(-A));
+std::cout<<"in FTM: "<<fice<<" "<<fcr<<"\n";
     this->ice_fraction = fcr;
   }
   

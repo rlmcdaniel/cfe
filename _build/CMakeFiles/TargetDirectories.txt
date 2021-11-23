@@ -1,0 +1,6 @@
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/_build/CMakeFiles/rebuild_cache.dir
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/_build/CMakeFiles/edit_cache.dir
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/_build/CMakeFiles/freezethaw.dir
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/_build/CMakeFiles/cfebmi.dir
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/_build/CMakeFiles/cfelib.dir
+/glade/work/rachelmcd/NextGen/git_repositories/ajkhattak_cfe/cfe/_build/CMakeFiles/cfeft.dir

@@ -1,0 +1,1 @@
+/glade/u/apps/ch/opt/ncarcompilers/0.5.0/gnu/10.1.0/gcc -fPIC -g -shared -Wl,-soname,libcfebmi.so -o libcfebmi.so CMakeFiles/cfebmi.dir/src/bmi_cfe.c.o CMakeFiles/cfebmi.dir/src/cfe.c.o 
