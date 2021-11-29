@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcfelib.a CMakeFiles/cfelib.dir/externalmodels/bmi_freezethawcxx/src/bmi_freezethaw.cxx.o CMakeFiles/cfelib.dir/externalmodels/bmi_freezethawcxx/src/freezethaw.cxx.o
-/usr/bin/ranlib libcfelib.a
