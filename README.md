@@ -9,11 +9,12 @@ There are actually multiple ways to run the CFE.
 ## Direct runoff 
 The user has the option to pick a particular direct runoff (aka surface partitioning) method:
 1. Schaake function (configuration: `surface_partitioning_scheme=Schaake`)
-2. XinanJiang function (configuration: `surface_partitioning_scheme=Xinanjiang`). When using this runoff method the user must also include three parameters.
-### If XinanJiang is choosen these parameters need to be included in the configuration file:
+2. Xinanjiang function (configuration: `surface_partitioning_scheme=Xinanjiang`). When using this runoff method the user must also include four parameters.
+### If Xinanjiang is chosen these parameters need to be included in the configuration file:
 1. a_Xinanjiang_inflection_point_parameter
 2. b_Xinanjiang_shape_parameter
-3. x_Xinanjiang_shape_parameter 
+3. x_Xinanjiang_shape_parameter
+4. urban_decimal_fraction
 
 # Compiling this code to run examples with a "pseudo" or "mini" framework.
 ## Read local forcing file
